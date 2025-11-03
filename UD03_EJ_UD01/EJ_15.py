@@ -1,3 +1,5 @@
+#* Ejercicio 15 Dibuja un ordinograma de un programa que lee dos números y muestra el mayor.
+
 a = int(input("Introduzce un número entero: "))
 b = int(input("Introduzce otro número entero: "))
 if a > b:

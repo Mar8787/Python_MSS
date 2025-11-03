@@ -1,3 +1,5 @@
+#* Ejerccicio 17 Dibuja un ordinograma de un programa que lea dos números y lo visualiza en orden ascendente
+
 a = int(input("Intoduce un número entero: "))
 b = int(input("Introduce un número entero distinto: "))
 if a == b:
