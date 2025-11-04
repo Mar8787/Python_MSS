@@ -1,4 +1,4 @@
-#* Ejercicio 18. Dibuja un ordinograma de un programa que lea dos números y nos diga cual es mayor o si son iguales.
+#* Ejercicio 18. Dibuja un programa que lea dos números y nos diga cual es mayor o si son iguales.
 
 a = int(input("Introduce un número entero: "))
 b = int(input("Introduce un número entero distinto: "))
