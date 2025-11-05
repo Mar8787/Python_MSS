@@ -1,4 +1,4 @@
-#* Dibuja un programa que lea tres números y nos diga cual es mayor, cual menor y cuales son iguales.
+#* Crea un programa que lea tres números y nos diga cual es mayor, cual menor y cuales son iguales.
 
 a = int(input("Introduce un número entero: "))
 b = int(input("Introduce otro número entero: "))

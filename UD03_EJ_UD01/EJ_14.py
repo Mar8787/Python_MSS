@@ -1,4 +1,4 @@
-#* Ejercicio 14: Dibuja un programa que lea dos números, calcule y muestre el valor de sus suma, resta, producto y división (Ten en cuenta la división por cero).
+#* Ejercicio 14: Crea un programa que lea dos números, calcule y muestre el valor de sus suma, resta, producto y división (Ten en cuenta la división por cero).
 
 a = int(input("Introduce un número entero: "))
 b = int(input("Introduce otro número entero: "))

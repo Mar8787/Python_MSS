@@ -1,16 +1,17 @@
-#* Ejercicio 21: Dibuja un programa que lea 100 números no nulos y luego muestre un mensaje de si ha leído número negativo o no
+#* Ejercicio 21: Crea un programa que lea 100 números no nulos y luego muestre un mensaje de si ha leído número negativo o no
 
 neg = 0
-for i in range(1, 5): #* Hacerlo con un while
+pos = 0
+contador = 0
+while contador < 5:
     num = int(input("Introduce un número no nulo: "))
     if num == 0:
-        print("El 0 no es un número válido. inténtelo de nuevo")
-        i -= 1
+        print("El cero no es un número válido.")
     elif num > 0:
-        continue
+        contador += 1
+        pos += 1
     else:
+        contador += 1
         neg += 1
-if neg > 0:
-    print("Se ha leído al menos un número negativo.")
-else:
-    print("No se ha leído ningún número negativo.")
+print(f"Números positivos: {pos}")
+print(f"Números negativos: {neg}")

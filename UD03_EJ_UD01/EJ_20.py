@@ -1,4 +1,4 @@
-#* Ejercicio 20: Dibuja un programa que lea un número positivo N y calcule y visualice su factorial N!
+#* Ejercicio 20: Crea un programa que lea un número positivo N y calcule y visualice su factorial N!
 
 num = int(input("Introduce un número positivo: "))
 if num >= 0:
