@@ -15,4 +15,9 @@ else:
     if bruto_25 <= 400:
         tasas = bruto_25 * 0.25
         neto = 500 - tasas
-    
+    else:
+        tasas = bruto_25
+        bruto_45 = bruto_25 - 400
+        tasas += bruto_45 * 0.45
+        neto = salario_bruto - tasas
+    print(f"{nombre}, salario bruto: {salario_bruto}, tasas: {tasas}, salario neto: {neto}")
