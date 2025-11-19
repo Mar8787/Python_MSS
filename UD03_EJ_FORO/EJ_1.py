@@ -18,7 +18,7 @@ for i in range(1, altura + 1):
     print("")
 
 #Segunda parte de la figura
-for i in range(1, altura + 1):
+for i in range(1, altura):
     for j in range(0 - 1, i - 1):
         print(" ", end="")
     print("*", end="")
@@ -26,3 +26,4 @@ for i in range(1, altura + 1):
         print(" ", end="")
     print("*", end="")
     print("")
+print((altura + 1) * (" ") + "*")
