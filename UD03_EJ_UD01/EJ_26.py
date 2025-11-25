@@ -1,4 +1,4 @@
-#* Programa que calcula el salario neto semanal de un trabajador en función del número de horas trabajadas y la tasa de impuestos
+# 26 Programa que calcula el salario neto semanal de un trabajador en función del número de horas trabajadas y la tasa de impuestos
 
 nombre = input("Introduce el nombre del trabajador: ")
 precio_hora = float(input("Introduce el precio por hora trabajada: "))
