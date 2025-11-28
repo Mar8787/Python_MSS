@@ -6,3 +6,4 @@ if 0 <= num <= 99999:
     while num != 0:
         num = num // 10
         cifras = cifras + 1
+print(f"El número {num} tiene {cifras} cifras")
