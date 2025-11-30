@@ -1,6 +1,6 @@
 # 15. Crea una aplicación que dibuje una pirámide invertida de asteriscos. Nosotros le pasamos la altura de la pirámide por teclado.
-altura = 5
-# altura = int(input("Introduce la altura del triángulo: "))
+
+altura = int(input("Introduce la altura del triángulo: "))
 
 print("\n############### Versión 1 ###############\n")
 
