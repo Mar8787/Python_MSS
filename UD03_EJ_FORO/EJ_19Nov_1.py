@@ -1,6 +1,6 @@
-#Imprime un diamante hueco de altura total 2n - 1, centrado con asteriscos, donde solo se imprimen los bordes y el centro.
-altura = 5
-# altura = int(input("Introduce el valor de la altura de la figura: "))
+#Ejercicio 1: Diamante hueco. Imprime un diamante hueco de altura total 2n - 1, centrado con asteriscos, donde solo se imprimen los bordes y el centro.
+
+altura = int(input("Introduce el valor de la altura de la figura: "))
 
 for i in range(0, (altura * 2) - 1):
     for j in range(0, (altura * 2) - 1):
