@@ -1,3 +1,5 @@
+#Ejercicio 1: Triángulo de lado.
+
 altura = int(input("Introduce la altura de la figura: "))
 
 #Cabecera de la figura

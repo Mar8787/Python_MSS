@@ -1,3 +1,5 @@
+#Ejercicio 2: Triángulo de 4.
+
 altura = int(input("Introduce la altura de la figura: "))
 #Cabecera de la figura
 print("4")

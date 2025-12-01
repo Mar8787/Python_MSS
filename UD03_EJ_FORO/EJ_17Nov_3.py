@@ -1,9 +1,6 @@
-altura = int(input("Introduce la altura de la figura: "))
+#Ejercicio 3: Rejas de 3x3.
+altura = 5
+# altura = int(input("Introduce una altura: "))
 
-#Cabecera de la figura
-print(((altura * 2) + 1) * ("* "))
-
-#Altura de la figura
-for i in range(1, altura + 1):
-    print("*   " * (altura + 1))
-    print("* " * (((altura + 1 ) * 2) - 1))
+for i in range(altura * 3):
+    
