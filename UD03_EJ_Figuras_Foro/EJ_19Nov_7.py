@@ -3,11 +3,11 @@
 altura = 6
 #altura = int(input("Imprime una altura para la figura: "))
 
+print("*" * altura)
 for i in range(altura):
     for j in range(altura):
-        if i == 0 or i == altura - 1:
+        if i == altura - 1 :
             print("*", end="")
-        if i % 2 == 1:
+        if i % 2 == 0:
             print("*", end=" ")
-            
     print()
