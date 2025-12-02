@@ -1,4 +1,4 @@
-# Extraer subcadenas usando slicing (rebanado de cadenas sin usar listas).
+# 6. Extraer subcadenas usando slicing (rebanado de cadenas sin usar listas).
 
 cadena = "Viva el Beti."
 subCadena = ""

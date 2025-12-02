@@ -1,4 +1,4 @@
-# Convertir todas las letras a mayúsculas o minúsculas usando ciclos y sumas de caracteres (sin usar los métodos upper() o lower()).
+# 8. Convertir todas las letras a mayúsculas o minúsculas usando ciclos y sumas de caracteres (sin usar los métodos upper() o lower()).
 
 cadenaMinus = "hola"
 cadenaMayus = ""

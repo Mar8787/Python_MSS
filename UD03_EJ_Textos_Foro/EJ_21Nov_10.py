@@ -1,4 +1,4 @@
-# Leer una cadena y contar cuántos caracteres son letras mayúsculas.
+# 10. Leer una cadena y contar cuántos caracteres son letras mayúsculas.
 
 cadena = input("Introduce una cadena para contar sus mayúsulas: ")
 contador = 0

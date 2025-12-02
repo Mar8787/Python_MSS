@@ -1,4 +1,4 @@
-# Leer una cadena y contar cuántas vocales contiene.
+# 9. Leer una cadena y contar cuántas vocales contiene.
 
 cadena = input("Introduce una palabra o una frase para contar sus vocales: ")
 vocales = "aeiouAEIOU"

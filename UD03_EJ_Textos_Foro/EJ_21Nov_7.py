@@ -1,4 +1,4 @@
-# Reemplazar un carácter por otro recorriendo la cadena y concatenando a una nueva cadena.
+# 7. Reemplazar un carácter por otro recorriendo la cadena y concatenando a una nueva cadena.
 
 cadenaVieja = "camaleon"
 cadenaNueva = ""
